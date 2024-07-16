@@ -4,7 +4,7 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg,
+      "https://i.imgflip.com/7jmwjs.jpg",
       "https://magazine.artland.com/wp-content/uploads/2017/11/406px-Marcel_Duchamp.jpg"
     ]
 kind: ConfigMap
